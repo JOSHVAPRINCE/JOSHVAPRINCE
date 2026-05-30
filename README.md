@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Joshva%20Prince%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Building%20Secure%20%26%20Scalable%20Web%20Solutions&descAlignY=62&descSize=16" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Joshva+Prince+C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack+Developer+%7C+Building+Secure+%26+Scalable+Web+Solutions&descAlignY=62&descSize=16)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%21+I'm+Joshva+Prince+%F0%9F%91%8B;Full-Stack+Developer+%7C+Node.js+%2B+Angular;Python+%7C+JavaScript+%7C+PostgreSQL;Building+Secure+%26+Scalable+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hey+there%21+I%27m+Joshva+Prince+%F0%9F%91%8B;Full-Stack+Developer+%7C+Node.js+%2B+Angular;Python+%7C+JavaScript+%7C+PostgreSQL;Building+Secure+%26+Scalable+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=joshvaprince&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/joshvaprince)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshva-prince-c-098721264)
