@@ -16,15 +16,15 @@
 
 ```javascript
 const joshvaPrince = {
-  name: "Joshva Prince C",
-  location: "Tambaram Sanatorium, Chennai, India 📍",
-  degree: "B.Tech - Information Technology @ K. Ramakrishnan College of Engineering, Trichy",
-  stack: ["JavaScript", "Node.js", "Angular", "Python", "HTML/CSS", "jQuery"],
-  databases: ["PostgreSQL", "MySQL"],
-  tools: ["Git", "GitHub", "VS Code", "Microsoft Office"],
-  currentlyLearning: ["Advanced Node.js Patterns", "Angular Best Practices", "Cloud Computing"],
-  funFact: "I participated in Folk Dance 🕺 AND won a photography award 📷 at college!",
-  motto: () => "Build secure. Build efficient. Deliver innovation. 🚀"
+  Name: "Joshva Prince C",
+  Location: "Tambaram Sanatorium, Chennai, India 📍",
+  Degree: "B.Tech - Information Technology @ K. Ramakrishnan College of Engineering, Trichy",
+  Stack: ["JavaScript", "Node.js", "Angular", "Python", "HTML/CSS", "jQuery"],
+  Databases: ["PostgreSQL", "MySQL"],
+  Tools: ["Git", "GitHub", "VS Code", "Microsoft Office"],
+  CurrentlyLearning: ["Advanced Node.js Patterns", "Angular Best Practices", "Cloud Computing"],
+  FunFact: "I participated in Folk Dance 🕺 AND won a photography award 📷 at college!",
+  Motto: () => "Build secure. Build efficient. Deliver innovation. 🚀"
 };
 ```
 
